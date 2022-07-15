@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MUuapvFB6nKgLTpm7vhHy/IysriIgwHQovxiK/JA/8hh8sWV9iXh1uI7MZ3kM8OFJ7tU0ubLay7FbZZoqlDFOA==",
+  "success": true,
+  "projectFilePath": "G:\\Atriya\\HomeShop\\AtriaShop\\Utility\\Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.parsa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

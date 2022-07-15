@@ -1,0 +1,517 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Atriya\\HomeShop\\AtriaShop\\ServiceHost\\ServiceHost.csproj": {}
+  },
+  "projects": {
+    "G:\\Atriya\\HomeShop\\AtriaShop\\ServiceHost\\ServiceHost.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Atriya\\HomeShop\\AtriaShop\\ServiceHost\\ServiceHost.csproj",
+        "projectName": "ServiceHost",
+        "projectPath": "G:\\Atriya\\HomeShop\\AtriaShop\\ServiceHost\\ServiceHost.csproj",
+        "packagesPath": "C:\\Users\\m.parsa\\.nuget\\packages\\",
+        "outputPath": "G:\\Atriya\\HomeShop\\AtriaShop\\ServiceHost\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\m.parsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Infrastructure.ProgramConfiguration\\ShopMgmt.Infrastructure.ProgramConfiguration.csproj": {
+                "projectPath": "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Infrastructure.ProgramConfiguration\\ShopMgmt.Infrastructure.ProgramConfiguration.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Domain.ApplicationService\\ShopMgmt.Domain.ApplicationService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Domain.ApplicationService\\ShopMgmt.Domain.ApplicationService.csproj",
+        "projectName": "ShopMgmt.Domain.ApplicationService",
+        "projectPath": "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Domain.ApplicationService\\ShopMgmt.Domain.ApplicationService.csproj",
+        "packagesPath": "C:\\Users\\m.parsa\\.nuget\\packages\\",
+        "outputPath": "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Domain.ApplicationService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\m.parsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Domain.Core\\ShopMgmt.Domain.Core.csproj": {
+                "projectPath": "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Domain.Core\\ShopMgmt.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Domain.Core\\ShopMgmt.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Domain.Core\\ShopMgmt.Domain.Core.csproj",
+        "projectName": "ShopMgmt.Domain.Core",
+        "projectPath": "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Domain.Core\\ShopMgmt.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\m.parsa\\.nuget\\packages\\",
+        "outputPath": "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\m.parsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\Atriya\\HomeShop\\AtriaShop\\Utility\\Utility.csproj": {
+                "projectPath": "G:\\Atriya\\HomeShop\\AtriaShop\\Utility\\Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Ifrastructure.Repositories.EfCore\\ShopMgmt.Ifrastructure.Repositories.EfCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Ifrastructure.Repositories.EfCore\\ShopMgmt.Ifrastructure.Repositories.EfCore.csproj",
+        "projectName": "ShopMgmt.Ifrastructure.Repositories.EfCore",
+        "projectPath": "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Ifrastructure.Repositories.EfCore\\ShopMgmt.Ifrastructure.Repositories.EfCore.csproj",
+        "packagesPath": "C:\\Users\\m.parsa\\.nuget\\packages\\",
+        "outputPath": "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Ifrastructure.Repositories.EfCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\m.parsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Domain.Core\\ShopMgmt.Domain.Core.csproj": {
+                "projectPath": "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Domain.Core\\ShopMgmt.Domain.Core.csproj"
+              },
+              "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Infrastructure.Database.SqlServer\\ShopMgmt.Infrastructure.Database.SqlServer.csproj": {
+                "projectPath": "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Infrastructure.Database.SqlServer\\ShopMgmt.Infrastructure.Database.SqlServer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Infrastructure.Database.SqlServer\\ShopMgmt.Infrastructure.Database.SqlServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Infrastructure.Database.SqlServer\\ShopMgmt.Infrastructure.Database.SqlServer.csproj",
+        "projectName": "ShopMgmt.Infrastructure.Database.SqlServer",
+        "projectPath": "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Infrastructure.Database.SqlServer\\ShopMgmt.Infrastructure.Database.SqlServer.csproj",
+        "packagesPath": "C:\\Users\\m.parsa\\.nuget\\packages\\",
+        "outputPath": "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Infrastructure.Database.SqlServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\m.parsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Domain.Core\\ShopMgmt.Domain.Core.csproj": {
+                "projectPath": "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Domain.Core\\ShopMgmt.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Infrastructure.ProgramConfiguration\\ShopMgmt.Infrastructure.ProgramConfiguration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Infrastructure.ProgramConfiguration\\ShopMgmt.Infrastructure.ProgramConfiguration.csproj",
+        "projectName": "ShopMgmt.Infrastructure.ProgramConfiguration",
+        "projectPath": "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Infrastructure.ProgramConfiguration\\ShopMgmt.Infrastructure.ProgramConfiguration.csproj",
+        "packagesPath": "C:\\Users\\m.parsa\\.nuget\\packages\\",
+        "outputPath": "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Infrastructure.ProgramConfiguration\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\m.parsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Domain.ApplicationService\\ShopMgmt.Domain.ApplicationService.csproj": {
+                "projectPath": "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Domain.ApplicationService\\ShopMgmt.Domain.ApplicationService.csproj"
+              },
+              "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Domain.Core\\ShopMgmt.Domain.Core.csproj": {
+                "projectPath": "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Domain.Core\\ShopMgmt.Domain.Core.csproj"
+              },
+              "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Ifrastructure.Repositories.EfCore\\ShopMgmt.Ifrastructure.Repositories.EfCore.csproj": {
+                "projectPath": "G:\\Atriya\\HomeShop\\AtriaShop\\ShopMgmt.Ifrastructure.Repositories.EfCore\\ShopMgmt.Ifrastructure.Repositories.EfCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Atriya\\HomeShop\\AtriaShop\\Utility\\Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Atriya\\HomeShop\\AtriaShop\\Utility\\Utility.csproj",
+        "projectName": "Utility",
+        "projectPath": "G:\\Atriya\\HomeShop\\AtriaShop\\Utility\\Utility.csproj",
+        "packagesPath": "C:\\Users\\m.parsa\\.nuget\\packages\\",
+        "outputPath": "G:\\Atriya\\HomeShop\\AtriaShop\\Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\m.parsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

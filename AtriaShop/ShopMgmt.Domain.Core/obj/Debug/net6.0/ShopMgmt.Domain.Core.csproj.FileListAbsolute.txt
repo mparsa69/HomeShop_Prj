@@ -1,0 +1,15 @@
+G:\Atriya\HomeShop\AtriaShop\ShopMgmt.Domain.Core\bin\Debug\net6.0\ShopMgmt.Domain.Core.deps.json
+G:\Atriya\HomeShop\AtriaShop\ShopMgmt.Domain.Core\bin\Debug\net6.0\ShopMgmt.Domain.Core.dll
+G:\Atriya\HomeShop\AtriaShop\ShopMgmt.Domain.Core\bin\Debug\net6.0\ref\ShopMgmt.Domain.Core.dll
+G:\Atriya\HomeShop\AtriaShop\ShopMgmt.Domain.Core\bin\Debug\net6.0\ShopMgmt.Domain.Core.pdb
+G:\Atriya\HomeShop\AtriaShop\ShopMgmt.Domain.Core\bin\Debug\net6.0\Utility.dll
+G:\Atriya\HomeShop\AtriaShop\ShopMgmt.Domain.Core\bin\Debug\net6.0\Utility.pdb
+G:\Atriya\HomeShop\AtriaShop\ShopMgmt.Domain.Core\obj\Debug\net6.0\ShopMgmt.Domain.Core.csproj.AssemblyReference.cache
+G:\Atriya\HomeShop\AtriaShop\ShopMgmt.Domain.Core\obj\Debug\net6.0\ShopMgmt.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\Atriya\HomeShop\AtriaShop\ShopMgmt.Domain.Core\obj\Debug\net6.0\ShopMgmt.Domain.Core.AssemblyInfoInputs.cache
+G:\Atriya\HomeShop\AtriaShop\ShopMgmt.Domain.Core\obj\Debug\net6.0\ShopMgmt.Domain.Core.AssemblyInfo.cs
+G:\Atriya\HomeShop\AtriaShop\ShopMgmt.Domain.Core\obj\Debug\net6.0\ShopMgmt.Domain.Core.csproj.CoreCompileInputs.cache
+G:\Atriya\HomeShop\AtriaShop\ShopMgmt.Domain.Core\obj\Debug\net6.0\ShopMgmt.Domain.Core.csproj.CopyComplete
+G:\Atriya\HomeShop\AtriaShop\ShopMgmt.Domain.Core\obj\Debug\net6.0\ShopMgmt.Domain.Core.dll
+G:\Atriya\HomeShop\AtriaShop\ShopMgmt.Domain.Core\obj\Debug\net6.0\ref\ShopMgmt.Domain.Core.dll
+G:\Atriya\HomeShop\AtriaShop\ShopMgmt.Domain.Core\obj\Debug\net6.0\ShopMgmt.Domain.Core.pdb

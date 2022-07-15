@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "73817c92-9cd2-46a9-bd30-7d973c877fea": {
+      "ProjectGuid": "73817c92-9cd2-46a9-bd30-7d973c877fea",
+      "DisplayName": "ShopMgmt.Domain.Core",
+      "ColorIndex": 0
+    },
+    "baa6eae4-de94-4a27-bccf-dffa99144aaf": {
+      "ProjectGuid": "baa6eae4-de94-4a27-bccf-dffa99144aaf",
+      "DisplayName": "ShopMgmt.Domain.ApplicationService",
+      "ColorIndex": 1
+    },
+    "2ae6d7c4-c08d-4a06-a12e-3b05b13a4bfa": {
+      "ProjectGuid": "2ae6d7c4-c08d-4a06-a12e-3b05b13a4bfa",
+      "DisplayName": "Utility",
+      "ColorIndex": 2
+    },
+    "959423d6-e02d-4112-883f-01c841de0c60": {
+      "ProjectGuid": "959423d6-e02d-4112-883f-01c841de0c60",
+      "DisplayName": "ShopMgmt.Infrastructure.Database.SqlServer",
+      "ColorIndex": 3
+    },
+    "0b908c75-2113-4379-9232-34802ee8e3f6": {
+      "ProjectGuid": "0b908c75-2113-4379-9232-34802ee8e3f6",
+      "DisplayName": "ShopMgmt.Ifrastructure.Repositories.EfCore",
+      "ColorIndex": 4
+    },
+    "7a4257ef-bbde-45d3-b9bb-b232e53dad56": {
+      "ProjectGuid": "7a4257ef-bbde-45d3-b9bb-b232e53dad56",
+      "DisplayName": "0_Framework",
+      "ColorIndex": 5
+    },
+    "41bc7ea8-33d7-497c-b8d9-342bc21895fe": {
+      "ProjectGuid": "41bc7ea8-33d7-497c-b8d9-342bc21895fe",
+      "DisplayName": "ShopMgmt.Infrastructure.ProgramConfiguration",
+      "ColorIndex": 6
+    },
+    "27905ea6-ad35-4b4f-8cb6-5eb3a4e67ba6": {
+      "ProjectGuid": "27905ea6-ad35-4b4f-8cb6-5eb3a4e67ba6",
+      "DisplayName": "ServiceHost",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 8
+}
